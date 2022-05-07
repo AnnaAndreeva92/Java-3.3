@@ -7,7 +7,7 @@ public class Main {
         double playment2 = monthyPayment.calculaste(1_000_000, 2);
         System.out.println();
 
-        double plaayment3 = monthyPayment.calculaste(1_000_000, 3);
+        double playment3 = monthyPayment.calculaste(1_000_000, 3);
         System.out.println();
     }
 }
